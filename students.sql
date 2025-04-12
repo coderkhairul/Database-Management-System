@@ -17,11 +17,11 @@ create table courses(
 describe students;
 describe courses;
 
-insert into students(roll,name,address)values(9053,'shamim','dhaka');
-insert into students(roll,name,address)values(9013,'sadman','rajshahi');
+insert into students(roll,name,address)values(9034,'Khairul','dhaka');
+insert into students(roll,name,address)values(9053,'Samim','Barishal');
 insert into students(roll,name,address)values(9003,'tanbir','barishal');
-insert into students(roll,name,address)values(4565,'0par','khulna');
-insert into students(roll,name,address)values(9073,'dipto','chittagong');
+insert into students(roll,name,address)values(8007,'Tanvir','Narayangonj');
+insert into students(roll,name,address)values(9070,'Maisha','Soriotpur');
 
 insert into courses(c_name,year,course_teacher)values('dbms',2002,'x');
 insert into courses(c_name,year,course_teacher)values('ds',2001,'y');
